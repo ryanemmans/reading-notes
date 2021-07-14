@@ -30,7 +30,7 @@
 
 - [Growth Mindset](code102/growthmindset.md)
 - [Learning Markdown](code102/markdown.md)
-- [The Coder's Computer](ccode102/oderscomputer.md)
+- [The Coder's Computer](code102/coderscomputer.md)
 
 #### Day 2
 
