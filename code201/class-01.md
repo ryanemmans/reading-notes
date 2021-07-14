@@ -446,4 +446,4 @@ Script can also be run or “called” in an HTML document, such as:
 
 JavaScript runs where it is found in the HTML.
 
-[back](README.md)
+[back](../README.md)

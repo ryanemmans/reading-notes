@@ -234,4 +234,4 @@ for (i = 0; i <10; i++) {
 
 **`continue`** - ...and check condition again - if `true`, it runs again
 
-[back](README.md)
+[back](../README.md)
