@@ -76,4 +76,4 @@ Javascript also treats *underscore* as a letter, therefore variable names can be
 
 - Often used as an alias for private (or hidden) variables
 
-[back](README.md)
+[back](../README.md)

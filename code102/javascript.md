@@ -67,4 +67,4 @@ Assignment Operators - assign value to variables
 
 Adding two numbers will return the sum, but adding a number and a string will return a string
 
-[back](README.md)
+[back](../README.md)

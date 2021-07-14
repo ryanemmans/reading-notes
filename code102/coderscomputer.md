@@ -36,4 +36,4 @@
 
 Additional reading on the command line can be found [here](https://ryanstutorials.net/linuxtutorial/commandline.php).
 
-[back](README.md)
+[back](../README.md)

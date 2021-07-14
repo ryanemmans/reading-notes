@@ -15,4 +15,4 @@ I remind myself to:
 
 ![gif](https://i.imgur.com/ZBZiiX8.gif)
 
-[back](README.md)
+[back](../README.md)

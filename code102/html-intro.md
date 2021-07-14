@@ -67,4 +67,4 @@ Footer:
 
 *Canvas class repository will have code demos*
 
-[back](README.md)
+[back](../README.md)

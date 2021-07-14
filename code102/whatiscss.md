@@ -61,4 +61,4 @@ Syntax Property Values:
 - Initial sets property to default value
 - Inherit inherits property from parent element
 
-[back](README.md)
+[back](../README.md)

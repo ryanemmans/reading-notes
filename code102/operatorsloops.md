@@ -70,4 +70,4 @@ Conditional operators - only operators that take three operands - can have one o
 - If false, loop stops and control passes to following loop
 - Make sure condition eventually becomes false, or it will become an infinite loop (Avoid!!)
 
-[back](README.md)
+[back](../README.md)

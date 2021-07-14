@@ -39,4 +39,4 @@ Stashing (git stash) temporarily removes and hides changes if you are not ready 
 
 - git stash apply will retrieve hidden changes
 
-[back](README.md)
+[back](../README.md)
