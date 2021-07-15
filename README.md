@@ -9,7 +9,7 @@
 1. [Introductory HTML and JavaScript](code201/class-01.md)
 2. [Basics of HTML, CSS, & JavaScript](code201/class-02.md)
 3. [HTML Lists, CSS Box Model, Control Flow with JavaScript](code201/class-03.md)
-4. [Reading Assignment](README.md)
+4. [HTML Links, Intro to CSS Layout, and JavaScript Functions](code201/class-04.md)
 5. [Reading Assignment](README.md)
 6. [Reading Assignment](README.md)
 7. [Reading Assignment](README.md)
