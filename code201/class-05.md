@@ -202,42 +202,4 @@ GIF are lossless
 
 Only supported by GIF
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 [back](../README.md)
