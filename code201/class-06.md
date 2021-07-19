@@ -195,3 +195,5 @@ In older browsers, implementation of the DOM is inconsistent
 - popular reason for using JQuery
 
 Browsers offer tools for viewing the DOM tree
+
+[back](../README.md)
