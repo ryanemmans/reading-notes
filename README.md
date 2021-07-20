@@ -12,7 +12,7 @@
 4. [HTML Links, Intro to CSS Layout, and JavaScript Functions](code201/class-04.md)
 5. [Images, Color, Text](code201/class-05.md)
 6. [Problem Domain, Objects, and the DOM](code201/class-06.md)
-7. [Reading Assignment](README.md)
+7. [Object-Oriented Programming, HTML Tables](code201/class-07.md)
 8. [Reading Assignment](README.md)
 9. [Reading Assignment](README.md)
 10. [Reading Assignment](README.md)
