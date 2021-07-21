@@ -33,11 +33,13 @@ Folders must be specified when using relative links
 - `<a href="movies/dvd/reviews.html">`
 
 You can create links to open email programs with an email address in the "to" field
+
 - `<a href="mailto:jon@example.org">Email Jon</a>`
 
 Opening links in a new window uses `target="_blank"`inside `<a>` tag
 
 You can use the `id` (`#`) attribute to link directly to elements *within* a page
+
 - `<a href="#interlude">Interlude</a>` would link to `<h2 id="interlude">Interlude</h2>` further down the page
 - `<a href="http:/www.htmlandcssbookcom/ #bottom">` would link to a specific part of a ***different*** page
 
@@ -77,6 +79,7 @@ p {
 ```
 
 Float can be used to create multi-column layouts
+
 - placing elements side by side
 - items require defined width
 
@@ -103,6 +106,7 @@ h1 {
 ```
 
 The clear property allows you to say that no element (within the same containing element) should touch the left or right-hand sides of a box.
+
 - `left`, `right`, `both`, `none`
 
 ```css
@@ -123,6 +127,7 @@ Fixed width layout designs
 - Measurements tend to be given in pixels.
 
 Liquid layout designs
+
 - Stretch and contract
 - Tend to use percentages.
 
@@ -201,7 +206,7 @@ function getArea(width, height) {
 }
 ```
 
-### The following sections will be updated soon...
+### The following sections will be updated soon
 
 - Calling Functions
 - Getting a single or multiple values out of a function
@@ -220,6 +225,7 @@ function getArea(width, height) {
 ### Why pair program?
 
 Four fundamental skills
+
 1. Listening
 2. Speaking
 3. Reading

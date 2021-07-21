@@ -13,7 +13,7 @@
 5. [Images, Color, Text](code201/class-05.md)
 6. [Problem Domain, Objects, and the DOM](code201/class-06.md)
 7. [Object-Oriented Programming, HTML Tables](code201/class-07.md)
-8. [Reading Assignment](README.md)
+8. [CSS Layout](code201/class-08.md)
 9. [Reading Assignment](README.md)
 10. [Reading Assignment](README.md)
 11. [Reading Assignment](README.md)
