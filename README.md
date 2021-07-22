@@ -14,7 +14,7 @@
 6. [Problem Domain, Objects, and the DOM](code201/class-06.md)
 7. [Object-Oriented Programming, HTML Tables](code201/class-07.md)
 8. [CSS Layout](code201/class-08.md)
-9. [Reading Assignment](README.md)
+9. [Forms and JavaScript Events](code201/class-09.md)
 10. [Reading Assignment](README.md)
 11. [Reading Assignment](README.md)
 12. [Reading Assignment](README.md)
