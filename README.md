@@ -16,7 +16,7 @@
 8. [CSS Layout](code201/class-08.md)
 9. [Forms and JavaScript Events](code201/class-09.md)
 10. [Debugging](code201/class-10.md)
-11. [Audio, Video, Images](ode201/class-11.md)
+11. [Audio, Video, Images](code201/class-11.md)
 12. [Reading Assignment](README.md)
 13. [Reading Assignment](README.md)
 14. [Reading Assignment](README.md)
