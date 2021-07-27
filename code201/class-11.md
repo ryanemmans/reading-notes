@@ -184,5 +184,4 @@ Apple decided not to support flash when releasing the iPhone and iPad in 2007 an
 
 In 2008, browswers started to support HTML5 `<video>` and `<audio>`
 
-
 [back](../README.md)
