@@ -107,11 +107,8 @@ Backface Visibility - `hidden` or `visible`
 Transitions - you can alter appearance and behavior of an element whenever a state change occurs
 
 - When it is hovered over, focused on, active, or targeted.
-- Change from one state to another
 
 Animations - allow appearance and behavior of an element to be altered in multiple keyframes
-
-- Set multiple points of transitionupon different keyframes
 
 ## Transitions
 
