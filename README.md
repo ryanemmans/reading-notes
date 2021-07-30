@@ -20,7 +20,7 @@
 12. [Chart.js, Canvas](code201/class-12.md)
 13. [Local Storage](code201/class-13.md)
 14. [CSS Transforms, Transitions, and Animations](code201/class-14.md)
-15. [Reading Assignment](README.md)
+15. [What Google Learned About Teams](code201/class-15.md)
 
 - - -
 
