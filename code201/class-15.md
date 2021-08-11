@@ -72,7 +72,7 @@ Two behaviors shared by the successful teams
 - "A sense of confidence that the team will not embarrass, reject or punish someone for speaking up"
   - Interpersonal trust and mutual respect
 
-### To Be Continued....
+### To Be Continued...
 
 [back](../README.md)
 
