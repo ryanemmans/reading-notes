@@ -1,31 +1,18 @@
 <!-- These are my reading notes for the Code Fellows Software Development immersive program. -->
 
-# **Reading Notes**
-
-- - -
+# **Reading Notes - Table of Contents:**
 
 ## **Code 102 - Intro to Software Development**
 
-#### Day 1
-
-- [Growth Mindset](code102/growthmindset.md)
-- [Learning Markdown](code102/markdown.md)
-- [The Coder's Computer](code102/coderscomputer.md)
-
-#### Day 2
-
-- [Git Tutorial](code102/gittutorial.md)
-- [Wireframing and HTML Introduction](code102/html-intro.md)
-
-#### Day 3
-
-- [Introduction to CSS](code102/whatiscss.md)
-- [Introduction to JavaScript](code102/jsintro.md)
-
-#### Day 4
-
-- [JavaScript Programming](code102/javascript.md)
-- [Operators and Loops](code102/operatorsloops.md)
+1. [Growth Mindset](code102/growthmindset.md)
+2. [Learning Markdown](code102/markdown.md)
+3. [The Coder's Computer](code102/coderscomputer.md)
+4. [Git Tutorial](code102/gittutorial.md)
+5. [Wireframing and HTML Introduction](code102/html-intro.md)
+6. [Introduction to CSS](code102/whatiscss.md)
+7. [Introduction to JavaScript](code102/jsintro.md)
+8. [JavaScript Programming](code102/javascript.md)
+9. [Operators and Loops](code102/operatorsloops.md)
 
 - - -
 
@@ -51,7 +38,7 @@
 
 ## **Code 301 - Intermediate Software Development**
 
-1. [Reading Assignment 01](README.md)
+1. [Introduction to React and Components](README.md)
 2. [Reading Assignment 02](README.md)
 3. [Reading Assignment 03](README.md)
 4. [Reading Assignment 04](README.md)
@@ -71,6 +58,8 @@
 - - -
 
 ## **Code 401 - Advanced Software Development**
+
+*Coming soon...*
 
 - - -
 
