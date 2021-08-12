@@ -2,6 +2,8 @@
 
 # **Reading Notes - Table of Contents:**
 
+- - -
+
 ## **Code 102 - Intro to Software Development**
 
 1. [Growth Mindset](code102/growthmindset.md)
