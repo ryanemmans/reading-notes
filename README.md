@@ -1,6 +1,18 @@
 <!-- These are my reading notes for the Code Fellows Software Development immersive program. -->
 
-# **Reading Notes - Table of Contents:**
+# **Reading Notes**
+
+## **Hey everyone! My name is Ryan.**
+
+<img src="https://avatars.githubusercontent.com/u/86586274?v=4" style="float: right;" width="100" height="100">
+
+>Prior to Code Fellows I bartended at some fancy cocktail bars out in Chicago for nearly a decade, but I've recently moved to Seattle to pursue a career change into tech. My education background is in furniture making, and I am passionate about all things design related. I love to ride bikes and go hiking in my free time, and am constantly trying to learn new things on just about any random subject. I’m very excited to be going through Code Fellows to build my skillset as an aspiring software developer, and am looking forward to all the challenges ahead!
+>- [LinkedIn](https://www.linkedin.com/in/ryanemmans/)
+>- [GitHub](https://github.com/ryanemmans)
+
+- - -
+
+# ***Table of Contents:***
 
 - - -
 
@@ -64,11 +76,3 @@
 *Coming soon...*
 
 - - -
-
-### **Hey everyone! My name is Ryan.**
-
-<img src="https://avatars.githubusercontent.com/u/86586274?v=4" style="float: right;" width="100" height="100">
-
->Prior to Code Fellows I bartended at some fancy cocktail bars out in Chicago for nearly a decade, but I've recently moved to Seattle to pursue a career change into tech. My education background is in furniture making, and I am passionate about all things design related. I love to ride bikes and go hiking in my free time, and am constantly trying to learn new things on just about any random subject. I’m very excited to be going through Code Fellows to build my skillset as an aspiring software developer, and am looking forward to all the challenges ahead!
->- [LinkedIn](https://www.linkedin.com/in/ryanemmans/)
->- [GitHub](https://github.com/ryanemmans)
