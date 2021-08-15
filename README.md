@@ -2,6 +2,8 @@
 
 # **Reading Notes**
 
+- - -
+
 ## **Hey everyone! My name is Ryan.**
 
 <img src="https://avatars.githubusercontent.com/u/86586274?v=4" style="float: right;" width="100" height="100">
@@ -13,8 +15,6 @@
 - - -
 
 # ***Table of Contents:***
-
-- - -
 
 ## **Code 102 - Intro to Software Development**
 
