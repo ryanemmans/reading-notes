@@ -156,6 +156,6 @@ Individual prop data will now render, converting the components from static to d
 - How do we seperate parent and child react files?
 - How can we practice creating components?
 - How are components connected to the interface?
-- Is JSX completely seperate from JavaScript?
+- Is JSX completely separate from JavaScript?
 
 [back](../README.md)
