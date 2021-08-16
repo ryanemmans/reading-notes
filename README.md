@@ -16,6 +16,8 @@
 
 # ***Table of Contents:***
 
+- - -
+
 ## **Code 102 - Intro to Software Development**
 
 1. [Growth Mindset](code102/growthmindset.md)
@@ -52,7 +54,7 @@
 
 ## **Code 301 - Intermediate Software Development**
 
-1. [Introduction to React and Components](README.md)
+1. [Introduction to React and Components](code301/class-01.md)
 2. [Reading Assignment 02](README.md)
 3. [Reading Assignment 03](README.md)
 4. [Reading Assignment 04](README.md)
