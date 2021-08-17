@@ -1,4 +1,4 @@
-# CLASS 1 NOTES - State and Props
+# CLASS 2 NOTES - State and Props
 
 ## ***React: Component Lifecycle Events***
 
@@ -59,7 +59,7 @@ https://www.youtube.com/watch?v=IYvD9oBCuJI&ab_channel=WebDevSimplified
 - - -
 
 ## Things I want to know more about
-- More visual examples of how props and state - apply to parent and sub classes.
+- More visual examples of how props and state apply to parent and sub classes.
 - A better understanding of component lifecycle events.
 - How mounting and unmounting actually works.
 
