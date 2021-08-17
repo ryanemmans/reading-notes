@@ -55,7 +55,7 @@
 ## **Code 301 - Intermediate Software Development**
 
 1. [Introduction to React and Components](code301/class-01.md)
-2. [Reading Assignment 02](README.md)
+2. [State and Props](code301/class-02.md)
 3. [Reading Assignment 03](README.md)
 4. [Reading Assignment 04](README.md)
 5. [Reading Assignment 05](README.md)
