@@ -56,7 +56,7 @@
 
 1. [Introduction to React and Components](code301/class-01.md)
 2. [State and Props](code301/class-02.md)
-3. [Reading Assignment 03](README.md)
+3. [Passing Functions as Props](code301/class-03.md)
 4. [Reading Assignment 04](README.md)
 5. [Reading Assignment 05](README.md)
 6. [Reading Assignment 06](README.md)
