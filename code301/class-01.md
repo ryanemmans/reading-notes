@@ -2,7 +2,7 @@
 
 ## ***Component-Based Architecture***
 
-https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm
+[https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm](https://www.tutorialspoint.com/software_architecture_design/component_based_architecture.htm)
 
 - - -
 
@@ -87,7 +87,7 @@ Advantages over object oriented approaches
 
 ## ***What Is “Props” and How To Use It In React?***
 
-https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0
+[https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0](https://itnext.io/what-is-props-and-how-to-use-it-in-react-da307f500da0)
 
 - *Code examples referenced from the text*
 

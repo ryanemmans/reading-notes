@@ -2,7 +2,7 @@
 
 ## ***React: Component Lifecycle Events***
 
-https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093
+[https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093](https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e670a093)
 
 - - -
 
@@ -32,7 +32,7 @@ https://medium.com/@joshuablankenshipnola/react-component-lifecycle-events-cb77e
 
 ## ***React State Vs Props***
 
-https://www.youtube.com/watch?v=IYvD9oBCuJI&ab_channel=WebDevSimplified
+[https://www.youtube.com/watch?v=IYvD9oBCuJI&ab_channel=WebDevSimplified](https://www.youtube.com/watch?v=IYvD9oBCuJI&ab_channel=WebDevSimplified)
 
 #### ***1. What types of things can you pass in the props?***
 
