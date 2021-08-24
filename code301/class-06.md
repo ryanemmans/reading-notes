@@ -77,6 +77,8 @@
 - The Navigator does not write any code but uses their words to guide the driver
 - The Navigator thinks about the big picture, and a second screen may be used to look up solutions and documentation.
 
+- - -
+
 ## Things I want to know more about
 
 - How do Node.js and npm work behind the scenes?

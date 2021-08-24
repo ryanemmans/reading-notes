@@ -60,7 +60,7 @@
 4. [React and Forms](code301/class-04.md)
 5. [Putting It All Together](code301/class-05.md)
 6. [NODE.JS](code301/class-06.md)
-7. [Reading Assignment 07](README.md)
+7. [REST](code301/class-07.md)
 8. [Reading Assignment 08](README.md)
 9. [Reading Assignment 09](README.md)
 10. [Reading Assignment 10](README.md)
