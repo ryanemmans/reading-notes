@@ -63,7 +63,7 @@
 7. [REST](code301/class-07.md)
 8. [APIs](code301/class-08.md)
 9. [Functional Programming](code301/class-09.md)
-10. [Reading Assignment 10](README.md)
+10. [In Memory Storage](code301/class-10.md)
 11. [Reading Assignment 11](README.md)
 12. [Reading Assignment 12](README.md)
 13. [Reading Assignment 13](README.md)
