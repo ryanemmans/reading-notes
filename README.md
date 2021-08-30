@@ -64,7 +64,7 @@
 8. [APIs](code301/class-08.md)
 9. [Functional Programming](code301/class-09.md)
 10. [In Memory Storage](code301/class-10.md)
-11. [Reading Assignment 11](README.md)
+11. [Mongo and Mongoose](code301/class-11.md)
 12. [Reading Assignment 12](README.md)
 13. [Reading Assignment 13](README.md)
 14. [Reading Assignment 14](README.md)
