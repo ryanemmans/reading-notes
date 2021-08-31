@@ -1,6 +1,6 @@
 # CLASS 11 NOTES - Mongo and Mongoose
 
-## ***SQL vs NoSQL Database Differences Explained with few Example DB***
+## ***SQL vs NoSQL Database Differences Explained***
 
 [https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
 
