@@ -6,7 +6,7 @@
 
 - - -
 
-#### **1. What occured during the same time as the beginning of the decline of women in computer science?**
+#### **1. What occurred during the same time as the beginning of the decline of women in computer science?**
 
 - Personal computers were starting to show up in U.S. homes in significant numbers.
 
@@ -27,7 +27,7 @@
 
 #### **1. What three take-a-ways do you have looking at this data?**
 
-- We need a much stronger presence of underrepresented backgrounds in tech, especially women and people of color.
+- We need a much stronger presence of underrepresented communities in tech, especially women and people of color.
 - Even in tech, we (unfortunately) live in a white male dominated world. Given that tech plays an increasingly heavy role in all of our futures, it is imperative that companies become more balanced and that all communities and company products become better represented.
 - From 2014 to 2017, some of these numbers are noticeably shifting in the favor of women and Asian communities as well as Black and Latino communities, which seems hopeful for the future of diversity in tech.
 
