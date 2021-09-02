@@ -67,7 +67,7 @@
 11. [Mongo and Mongoose](code301/class-11.md)
 12. [CRUD](code301/class-12.md)
 13. [Diversity & Inclusion in the Tech Industry](code301/class-13.md)
-14. [Reading Assignment 14](README.md)
+14. [Authentication](code301/class-14.md)
 15. [Reading Assignment 15](README.md)
 
 

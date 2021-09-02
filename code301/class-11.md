@@ -12,7 +12,7 @@
 |-------------------------------------------------------------------|----------------------------------------------------------------------------|
 | Relational Databases (RDBMS)                                      | Non-relational or distributed databases                                    |
 | Table based                                                       | Document based (key-value pairs, graph, or wide-solumn stores              |
-| Predefined scheme                                                 | Dynamic schema for unstructured data                                       |
+| Predefined schema                                                 | Dynamic schema for unstructured data                                       |
 | Vertically scalable (increase horse-power of hardware)            | Horizontally scalable (increase db servers to reduce load)                 |
 | Uses structured query language for defining and manipulating data | Queries are focused on collection of documents                             |
 | Ex: MySql, Oracle, Sqlite, Postgres and MS-SQL                    | Ex: MongoDB, BigTable, Redis, RavenDb, Cassandra, Hbase, Neo4j and CouchDb |
