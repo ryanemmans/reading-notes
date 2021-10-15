@@ -73,6 +73,6 @@
 
 ## **Code 401 - Advanced Software Development**
 
-*Coming soon...*
+PreWork. [Thinking Like a Programmer](js401/prework.md)
 
 - - -
