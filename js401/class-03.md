@@ -3,8 +3,8 @@
 ***1. Name 3 real world use cases where you’d want to change the request with custom middleware.***
 
 - Printing a message (logging).
-- Display a request timestamp.
-- Trigger an error handler.
+- Displaying a request timestamp.
+- Triggering an error handler.
 
 ***2. True or false: The route handler is middleware?***
 
@@ -71,6 +71,6 @@ Sources:
 - [NewbeDev](https://newbedev.com/error-can-t-set-headers-after-they-are-sent-to-the-client)
 - [Stack Overflow](https://stackoverflow.com/questions/29457008/whats-the-difference-between-application-and-router-level-middleware-when-rou)
 - [Agile Alliance](https://www.agilealliance.org/glossary/tdd/#q=~(infinite~false~filters~(postType~(~'page~'post~'aa_book~'aa_event_session~'aa_experience_report~'aa_glossary~'aa_research_paper~'aa_video)~tags~(~'tdd))~searchTerm~'~sort~false~sortDirection~'asc~page~1))
-[Software Testing Fundamentals](https://softwaretestingfundamentals.com/black-box-testing/)
+- [Software Testing Fundamentals](https://softwaretestingfundamentals.com/black-box-testing/)
 
 [back](../README.md)
