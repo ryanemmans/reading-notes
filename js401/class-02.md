@@ -20,7 +20,7 @@
 
 - Status code 100s are informational.
 - Status code 200s indicate success.
-- Status code 300s indicate ridirection where further action is needed by the user.
+- Status code 300s indicate redirection where further action is needed by the user.
 - Status code 400s indicate a client error.
 - Status code 500s indicate a server error.
 
@@ -39,10 +39,10 @@
 
 ***6. Document the following Vocabulary Terms:***
 
-- Web Server - computer software and underlying hardware that accepts requests via HTTP, the network protocol created to distribute web pages, or its secure variant HTTPS. It can be a single computer or an embedded system.
-- Express - a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
-- Routing - a mechanism where HTTP requests are routed to the code that handles them. The Router determines what should happen when a user visits a certain page.
-- WRRC - Web Request Response Cycle - traces how a user's request flows through the app.
+- **Web Server** - computer software and underlying hardware that accepts requests via HTTP, the network protocol created to distribute web pages, or its secure variant HTTPS. It can be a single computer or an embedded system.
+- **Express** - a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.
+- **Routing** - a mechanism where HTTP requests are routed to the code that handles them. The Router determines what should happen when a user visits a certain page.
+- **WRRC** - Web Request Response Cycle - traces how a user's request flows through the app.
 
 - - -
 
@@ -68,7 +68,7 @@
 ***3. What are you most excited about trying to implement or see how it works?***
 
 - CI/CD
-- Building APIS
+- Building APIs
 - Swagger
 
 - - -
