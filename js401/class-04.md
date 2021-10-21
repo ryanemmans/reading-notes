@@ -59,7 +59,7 @@
 
 - Sequelize
 - MySQL
-- Use cases of SQL vs NoSQL
+- Data Modeling
 
 ***3. What are you most excited about trying to implement or see how it works?***
 
