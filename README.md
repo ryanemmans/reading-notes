@@ -78,6 +78,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 1. [Node Ecosystem, TDD, CI/CD](js401/class-01.md)
 2. [Express](js401/class-02.md)
 3. [Express REST API](js401/class-03.md)
-
+4. [Data Modeling](js401/class-04.md)
 
 - - -
