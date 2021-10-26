@@ -81,5 +81,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 4. [Data Modeling](js401/class-04.md)
 5. [Implementation: Linked Lists](js401/class-05.md)
 6. [Authentication](js401/class-06.md)
+7. [Bearer Authorization](js401/class-07.md)
 
 - - -
