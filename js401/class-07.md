@@ -4,11 +4,11 @@
 
 - Register your application to get a client_id and client_secret
 - Ask the client if they want to sign in via a third party
-- Make a request to a third-party API endpoint
 - Redirect to a third party authentication endpoint
 - Receive authorization code
 - Make a request to the access token endpoint
 - Receive access token
+- Make a request to a third-party API endpoint
 
 ***2. What can you do with an authorization code?***
 
