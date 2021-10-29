@@ -10,7 +10,7 @@
 
 ***3. How are JWTs validated?***
 
-- You can use any existing middleware for your web framework or an open source third-party library to parse and validate JWTs.
+- You can use any existing middleware for your web framework or an open source third-party library to parse and validate JWTs. Check that the JWT is well formed. Check the signature and the standard claims.
 
 ***4. Document the following Vocabulary Terms:***
 
