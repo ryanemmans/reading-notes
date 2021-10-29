@@ -1,6 +1,6 @@
 # CLASS 8 NOTES - Access Control (ACL)
 
-***When is Basic Authorization used vs. Bearer Authorization?***
+***1. When is Basic Authorization used vs. Bearer Authorization?***
 
 - Basic auth should be used through HTTPS using SSL encryption. Base-64 encodes a username:password string. Bearer auth is used to gain access tokens which can then make API requests on behalf of a user.
 

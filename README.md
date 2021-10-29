@@ -83,5 +83,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 6. [Authentication](js401/class-06.md)
 7. [Bearer Authorization](js401/class-07.md)
 8. [Access Control (ACL)](js401/class-08.md)
+9. [Authorization/Authentication](js401/class-09.md)
 
 - - -
