@@ -85,5 +85,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 8. [Access Control (ACL)](js401/class-08.md)
 9. [Authorization/Authentication](js401/class-09.md)
 10. [Implementation: Stacks and Queues](js401/class-10.md)
+11. [Event Driven Applications](js401/class-11.md)
 
 - - -
