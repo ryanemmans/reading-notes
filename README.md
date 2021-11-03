@@ -86,5 +86,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 9. [Authorization/Authentication](js401/class-09.md)
 10. [Implementation: Stacks and Queues](js401/class-10.md)
 11. [Event Driven Applications](js401/class-11.md)
+12. [Socket.io](js401/class-12.md)
 
 - - -
