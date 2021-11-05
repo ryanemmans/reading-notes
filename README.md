@@ -87,5 +87,8 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 10. [Implementation: Stacks and Queues](js401/class-10.md)
 11. [Event Driven Applications](js401/class-11.md)
 12. [Socket.io](js401/class-12.md)
+13. [CascadiaJS Conference Day 1](js401/README.md)
+14. [CascadiaJS Conference Day 2](js401/README.md)
+15. [Trees](js401/class-15.md)
 
 - - -
