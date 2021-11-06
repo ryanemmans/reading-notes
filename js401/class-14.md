@@ -65,3 +65,7 @@ Successful refactoring with empathy and small bites
 ## Feross Aboukhadijeh - “It's a Jungle Out There!”
 
 - Spoke on the increasing presence of malware in NPM packages, scary stuff.
+
+- - -
+
+[back](../README.md)
