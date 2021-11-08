@@ -90,5 +90,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 13. [CascadiaJS Conference Day 1](js401/class-13.md)
 14. [CascadiaJS Conference Day 2](js401/class-14.md)
 15. [Trees](js401/class-15.md)
+16. [AWS: Cloud Servers](js401/class-16.md)
 
 - - -
