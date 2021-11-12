@@ -93,5 +93,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 16. [AWS: Cloud Servers](js401/class-16.md)
 17. [AWS: S3 and Lambda](js401/class-17.md)
 18. [AWS: API, Dynamo and Lambda](js401/class-18.md)
+19. [AWS: Events](js401/class-19.md)
 
 - - -
