@@ -87,7 +87,7 @@ Sources:
 
 - [Going Serverless](https://aws.amazon.com/blogs/compute/going-serverless-migrating-an-express-application-to-amazon-api-gateway-and-aws-lambda/)
 - [Express / Lambda](https://aws.amazon.com/blogs/aws/running-express-applications-on-aws-lambda-and-amazon-api-gateway/)
-- [AWS Databases](https://aws.amazon.com/free/database/?trk=ps_a134p000007CdBGAA0&trkCampaign=acq_paid_search_brand&sc_channel=PS&sc_campaign=acquisition_US&sc_publisher=Google&sc_category=Database&sc_country=US&sc_geo=NAMER&sc_outcome=acq&sc_detail=aws%20database%20solution&sc_content=Cloud%20Database_e&sc_matchtype=e&sc_segment=548665196142&sc_medium=ACQ-P|PS-GO|Brand|Desktop|SU|Database|Solution|US|EN|Text&s_kwcid=AL!4422!3!548665196142!e!!g!!aws%20database%20solution&ef_id=CjwKCAiAm7OMBhAQEiwArvGi3ESp5_-t6HhL3WkXByED_ugxeMM0X8cReurVqvpZl8FfBhvoV1ccJxoC5YEQAvD_BwE:G:s&s_kwcid=AL!4422!3!548665196142!e!!g!!aws%20database%20solution)
+- [AWS Databases](https://aws.amazon.com/free/database/)
 - [Saras](https://sarasanalytics.com/blog/amazon-rds-pros-and-cons)
 - [Trigent](https://blog.trigent.com/when-to-opt-for-aws-dynamodb/)
 - [CloudZero](https://www.cloudzero.com/blog/amazon-elasticache)
