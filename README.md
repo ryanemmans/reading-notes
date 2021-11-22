@@ -94,9 +94,12 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 17. [AWS: S3 and Lambda](js401/class-17.md)
 18. [AWS: API, Dynamo and Lambda](js401/class-18.md)
 19. [AWS: Events](js401/class-19.md)
-
-(20-25 Midterm Project Week)
-
+20. Midterm Project Week
+21. Midterm Project Week
+22. Midterm Project Week
+23. Midterm Project Week
+24. Midterm Project Week
+25. Midterm Project Week
 26. [Component Based UI](js401/class-26.md)
 
 - - -
