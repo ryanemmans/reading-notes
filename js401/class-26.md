@@ -12,7 +12,7 @@
 ***3. Document the following Vocabulary Terms:***
 
 - **Rendering** - In React, the render() method is the only required method in a class component, and is responsible for describing the view to be displayed to the browser window.
-- **Templates** - refers to the client side data binding method implemented with JavaScript. A frequent practice is to use double curly brackets ( i.e. {{key}} ) to call values of the given key from data files, often JSON objects.
+- **Templates** - refers to the client side data binding method implemented with JavaScript. A frequent practice is to use double curly brackets to call values of the given key from data files, often JSON objects.
 - **State** - a JavaScript object that stores a component’s dynamic data and enables a component to keep track of changes between renders. Because state is dynamic, it is reserved only for interactivity so you don’t use it for static React projects.
 
 - - -
