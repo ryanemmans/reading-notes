@@ -1,4 +1,4 @@
-# CLASS 27 NOTES - `useState()` Hook
+# CLASS 27 NOTES - useState() Hook
 
 ***1. How does React differ from vanilla JS/HTML/CSS?***
 
