@@ -101,5 +101,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 24. Midterm Project Week
 25. Midterm Project Week
 26. [Component Based UI](js401/class-26.md)
+27. [`useState()` Hook](js401/class-27.md)
 
 - - -
