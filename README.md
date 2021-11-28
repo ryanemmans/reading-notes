@@ -102,5 +102,8 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 25. Midterm Project Week
 26. [Component Based UI](js401/class-26.md)
 27. [useState() Hook](js401/class-27.md)
+28. [Component Lifecycle / useEffect() Hook](js401/class-28.md)
+28. [Advanced State with Reducers](js401/class-29.md)
+30. [Hash Tables](js401/class-30.md)
 
 - - -
