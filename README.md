@@ -107,5 +107,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 30. [Implementation: Hash Tables](js401/class-30.md)
 31. [Context API](js401/class-31.md)
 32. [Context API - Behaviors](js401/class-32.md)
+33. [`<Login />` and `<Auth />`](js401/class33.md)
 
 - - -

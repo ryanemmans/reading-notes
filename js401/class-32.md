@@ -30,7 +30,7 @@
 
 - Context
 - Global state
--Providers and consumers
+- Providers and consumers
 
 ***2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?***
 
