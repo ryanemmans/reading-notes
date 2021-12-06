@@ -108,5 +108,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 31. [Context API](js401/class-31.md)
 32. [Context API - Behaviors](js401/class-32.md)
 33. [`<Login />` and `<Auth />`](js401/class-33.md)
+34. [API Integration](js401/class-34.md)
 
 - - -
