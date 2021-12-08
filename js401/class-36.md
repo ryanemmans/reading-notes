@@ -10,7 +10,7 @@
 
 ***3. How do pixel tags work?***
 
-- Also know as tracking pixels, they obtain and analyze data that is unknowingly provided by users when visiting a webpage or reading an email. This data can include OS, time visited, website type, client type (browser or email application), IP address, site activities, and screen resolutions.
+- Also known as tracking pixels, they obtain and analyze data that is unknowingly provided by users when visiting a webpage or reading an email. This data can include OS, time visited, website type, client type (browser or email application), IP address, site activities, and screen resolutions.
 
 ***4. Document the following Vocabulary Terms:***
 
@@ -36,7 +36,7 @@
 
 ***2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?***
 
-- Redux
+- Redux / reducers
 - Jest testing with Redux
 - react-cookies
 
