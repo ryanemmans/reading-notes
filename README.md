@@ -110,5 +110,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 33. [`<Login />` and `<Auth />`](js401/class-33.md)
 34. [API Integration](js401/class-34.md)
 35. [Implementation: Graphs](js401/class-35.md)
+36. [Application State with Redux](js401/class-36.md)
 
 - - -

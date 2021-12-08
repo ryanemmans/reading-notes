@@ -8,7 +8,7 @@ A **graph** is a non-linear data structure
 
 - A collection of `vertices` (or `nodes`) potentially connected by line segments named `edges`.
 
-## **Terminology**
+## Terminology
 
 - **Vertex** - aka Node, data object that can have zero or more adjacent vertices
   - Ex: {a,b,c,d,e,f}
@@ -44,7 +44,7 @@ A **graph** is a non-linear data structure
 
 ### Adjacency Matrix
 
-- Represeneted through a 2-D array.
+- Represented through a 2-D array.
   - If *n* vertices, then *n x n* Boolean matrix
 - Each row / column represents each vertex
   - 1 if there *is* a connection / edge, 0 if there is *no* connection / edge
@@ -68,7 +68,7 @@ f [ 0, 1, 0, 0, 1, 0 ]
 
 - Most common way to represent graphs
   - Collection of linked lists or array that lists all other connected vertices
-  - East to view connections of vertices
+  - Easy to view connections of vertices
 
 ```js
 {a} -> c -> d
@@ -81,9 +81,37 @@ f [ 0, 1, 0, 0, 1, 0 ]
 
 ## Weighted Graphs
 
+A graph with numbers (called "weights") assigned to its edges
+
+Weight matrix example:
+
+```js
+    a  b  c  d
+[    
+a [ 0, 4, 3, 9 ],
+b [ 4, 0, 0, 5 ],
+c [ 3, 0, 0, 6 ],
+d [ 9, 5, 6, 0 ],
+];
+```
+
+Adjacency lists must include *both* weight *and* name of adjacent vertex:
+
+```js
+{a} -> b,4 -> d,9 -> c,3
+{b} -> a,4 -> d,5
+{c} -> a,3 -> d,6
+{d} -> a,9 -> b,5 -> c,6
+```
+
+`{vertex, weight}` connection can be represented through a key/value pair data structure.
+
 ## Traversals
 
 ### Breadth First
+
+- Start at specific vertex
+- Similar to a tree, except graphs have cycles.
 
 ### Depth First
 
