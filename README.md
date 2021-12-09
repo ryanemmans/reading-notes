@@ -111,5 +111,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 34. [API Integration](js401/class-34.md)
 35. [Implementation: Graphs](js401/class-35.md)
 36. [Application State with Redux](js401/class-36.md)
+37. [Redux - Combined Reducers](js401/class-37.md)
 
 - - -
