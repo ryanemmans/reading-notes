@@ -22,7 +22,7 @@
 ## Preview:
 
 - [Async Actions](https://redux.js.org/tutorials/fundamentals/part-6-async-logic)
-- [Thunk Middlewear](https://github.com/reduxjs/redux-thunk)
+- [Thunk Middleware](https://github.com/reduxjs/redux-thunk)
 - [Redux Thunk](https://www.digitalocean.com/community/tutorials/redux-redux-thunk)
 
 ***1. Which 3 things had you heard about previously and now have better clarity on?***
