@@ -113,5 +113,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 36. [Application State with Redux](js401/class-36.md)
 37. [Redux - Combined Reducers](js401/class-37.md)
 38. [Redux - Asynchronous Actions](js401/class-38.md)
+39. [Redux - Additional Topics](js401/class-39.md)
 
 - - -
