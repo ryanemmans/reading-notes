@@ -8,7 +8,7 @@
 
 - You would export the function
 
-***4. Document the following Vocabulary Terms:***
+***3. Document the following Vocabulary Terms:***
 
 - **Middleware** - in Redux, it provides a third-party extension point between dispatching an action, and the moment it reaches the reducer. Used for logging, crash reporting, talking to an async API, routing, and more.
 - **Thunk** - a pattern of writing functions with logic inside that can interact with a Redux store's `dispatch` and `getState` methods.
