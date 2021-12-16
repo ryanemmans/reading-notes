@@ -20,4 +20,8 @@ Will get to this one later today when there's more time...
 
 - - -
 
+## [Google Backtracks, Says Its AI Will Not Be Used for Weapons or Surveillance](https://gizmodo.com/in-reversal-google-says-its-ai-will-not-be-used-for-we-1826649327)
+
+As well as this one...
+
 [back](../README.md)
