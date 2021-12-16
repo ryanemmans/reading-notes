@@ -116,5 +116,6 @@ PreWork. [Thinking Like a Programmer](js401/prework.md)
 39. [Redux - Additional Topics](js401/class-39.md)
 40. No Assigned Reading
 41. [React Native](js401/class-41.md)
+42. [Ethics](js401/class-42.md)
 
 - - -
